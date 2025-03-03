@@ -14,12 +14,4 @@
 
 ## [Friendly Shopping Cart](https://github.com/kvmuralikrishna1993/Web_MEAN_Stack/tree/master/webproject)
 
-## Java Applications
-
-### [](link)
-
-## Python Applications
-
-### [](link)
-
 ## [Building a Phishing Site](https://github.com/kvmuralikrishna1993/Java/tree/master/basic-computer-security/phish)
